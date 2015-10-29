@@ -1,0 +1,3 @@
+Punycode encoding/decoding for Ceylon.
+
+Not yet 1.0 because there's a single remaining test failure.
